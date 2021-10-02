@@ -1,1 +1,3 @@
-nombre hernanx
+oraciones:
+estudio ingenieria en sistemas 
+trabajo en orm udenar
